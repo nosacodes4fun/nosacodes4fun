@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby, Ruby on rails and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://nosa.dev/portfolio](https://nosa.dev/portfolio)
+- 👨‍💻 All of my projects are available at [https://nosa.dev/](https://nosa.dev)
 
 - 📝 I regularly write articles on [https://nosa.dev](https://nosa.dev)
 
